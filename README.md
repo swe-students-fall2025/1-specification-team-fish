@@ -26,7 +26,8 @@ Jaden Miller:
   - Easy way to make friends with similar interests
   - Can connect with other student musicians to make music
 - Problems
-  - 
+  - Most of his work in done online (creating music, calls)
+    - Might not need to meet in person, and therefore won't use app regularly
 
 Kiamy Gomes:
 - Senior studing Economics
