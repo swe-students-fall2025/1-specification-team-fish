@@ -30,7 +30,7 @@ Jaden Miller:
     - Might not need to meet in person, and therefore won't use app regularly
 
 Kiamy Gomes:
-- Senior studing Economics
+- Senior studying Economics
 - Goals
   - Meet other students with similar career goals
     - Future coworkers or business connections
