@@ -8,34 +8,27 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-
 Anna Freja:
 - Senior studying Psychology and Biology
+Jaden Miller:
+- Senior studying Music Business
+Kiamy Gomes:
+- Senior studying Economics
+
 - Goals
   - Easy way to meet students in large lectures
   - Way to meet potential coworkers at Langone
+  - Easy way to make friends with similar interests
+  - Can connect with other student musicians to make music
+  - Meet other students with similar career goals
+    - Future coworkers or business connections
+  - Easily meet up with friends from classes on campus
 - Problems 
   - Location and privacy (with map feature)
     - Wants only friends to be able to see
     - Wants to be able to turn it on and off when she wants
-
-Jaden Miller:
-- Senior studying Music Business
-- Goals
-  - Easy way to make friends with similar interests
-  - Can connect with other student musicians to make music
-- Problems
   - Most of his work in done online (creating music, calls)
     - Might not need to meet in person, and therefore won't use app regularly
-
-Kiamy Gomes:
-- Senior studying Economics
-- Goals
-  - Meet other students with similar career goals
-    - Future coworkers or business connections
-  - Easily meet up with friends from classes on campus
-- Problems
   - Worried about lack of use of app
     - App is only effective if many students use it, allowing to find the perfect study match
   - Social on his own
