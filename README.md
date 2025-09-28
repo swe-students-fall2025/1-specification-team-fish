@@ -38,7 +38,7 @@ Kiamy Gomes:
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+This campus-based app allows students to create profiles, connect with like-minded individuals in their classes and majors, and coordinate study sessions through real-time location, shared calendars, and direct messaging.
 
 ## User Requirements
 
