@@ -10,8 +10,10 @@ A little exercise to get started with the specification phase of the software de
 
 Anna Freja:
 - Senior studying Psychology and Biology
+
 Jaden Miller:
 - Senior studying Music Business
+
 Kiamy Gomes:
 - Senior studying Economics
 
