@@ -5,7 +5,15 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Aden Juda](https://github.com/yungsemitone)
-[Kevin Pham] (https://github.com/knp4830)
+
+[Kevin Pham](https://github.com/knp4830)
+
+[Sydney Nadeau](https://github.com/sen5217)
+
+[Lucy Hartigan](https://github.com/lucyhartigan)
+
+[Luna Suzuki](https://github.com/lunasuzuki)
+
 
 ## Stakeholders
 
@@ -27,7 +35,7 @@ Owen Zhang:
 Salim Ishimwe:
 - Senior Studying Drama and Economics
 
-- Goals
+- Goals:
   - Easy way to meet students in large lectures
   - Way to meet potential coworkers at Langone
   - Easy way to make friends with similar interests
@@ -40,7 +48,7 @@ Salim Ishimwe:
   - Discover study locations that aren't too distracting or busy
   - Match with people who have compatible study habits
   - See's what topics people also struggle with and can work on connecting over those needs
-- Problems 
+- Problems:
   - Location and privacy (with map feature)
     - Wants only friends to be able to see
     - Wants to be able to turn it on and off when she wants
@@ -101,8 +109,13 @@ This campus-based app allows students to create profiles, connect with like-mind
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+**User Story 1:** As a new freshman, I want to meet kids in my classes so that I can make friends at a new school.
+![User Story 1](uml1.png)
+
+
+**User Story 2**: As a student, I want to send direct messages to my study buddy so that we can coordinate when and where to meet.
+![User Story 2](uml2.png)
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+Our prototype can be viewed [here](https://www.figma.com/design/8EPkxOgiTUNrw5iIx5ROc0/team-fish?node-id=0-1&t=dx3X2Knj92Y9LjUQ-1).
