@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Aden Juda](https://github.com/yungsemitone)
-[Kevin Pham] (https://github.com/knp4830)
+[Kevin Pham](https://github.com/knp4830)
 
 ## Stakeholders
 
