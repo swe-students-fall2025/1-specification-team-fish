@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Aden Juda](https://github.com/yungsemitone)
+[Kevin Pham] (https://github.com/knp4830)
 
 ## Stakeholders
 
@@ -17,6 +18,15 @@ Jaden Miller:
 Kiamy Gomes:
 - Senior studying Economics
 
+Hannah Rah:
+- Senior Studying Finance and Marketing
+
+Owen Zhang:
+- Senior Studying Computer Science and Data Science
+
+Salim Ishimwe:
+- Senior Studying Drama and Economics
+
 - Goals
   - Easy way to meet students in large lectures
   - Way to meet potential coworkers at Langone
@@ -25,6 +35,11 @@ Kiamy Gomes:
   - Meet other students with similar career goals
     - Future coworkers or business connections
   - Easily meet up with friends from classes on campus
+  - Find overlapping study times quicker
+  - Know who is already studying
+  - Discover study locations that aren't too distracting or busy
+  - Match with people who have compatible study habits
+  - See's what topics people also struggle with and can work on connecting over those needs
 - Problems 
   - Location and privacy (with map feature)
     - Wants only friends to be able to see
@@ -35,6 +50,11 @@ Kiamy Gomes:
     - App is only effective if many students use it, allowing to find the perfect study match
   - Social on his own
     - Can approach people in class, doesn't need to wait for an app
+  - Hard to initiate study sessions with classmates you don't already know
+  - Struggles to find good study environments that aren't too distracting
+  - Frustrated with chatty study partners
+  - Trouble finding unbusy study spaces
+  - Frustration when partners are not equally as prepared or ready to contriubte
 
 ## Product Vision Statement
 
